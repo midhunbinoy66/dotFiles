@@ -1,0 +1,617 @@
+Jan 25 20:17 : exception: Failed to open '/home/midhun/.config/mpd/state': No such file or directory
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~2. Feeling Like The End.mp3
+Note: Illegal Audio-MPEG-Header 0xffe4000a at offset 4076.
+Note: Trying to resync...
+Note: Skipped 1024 bytes in input.
+[src/libmpg123/parse.c:wetwork():1389] error: Giving up resync after 1024 bytes - your stream is not nice... (maybe increasing resync limit could help).
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~2. BLAHBLAHBLAH DEMO.mp3
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~3. YUKON (INTERLUDE).mp3
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~5. Dissolve.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~4. Before The Day Is Over.mp3
+Note: Illegal Audio-MPEG-Header 0xffe3000a at offset 4076.
+Note: Trying to resync...
+Note: Skipped 1024 bytes in input.
+[src/libmpg123/parse.c:wetwork():1389] error: Giving up resync after 1024 bytes - your stream is not nice... (maybe increasing resync limit could help).
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~4. 1AM FREESTYLE.mp3
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~3. Die For You.mp3
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~1. Glimpse of Us.mp3
+Jan 25 20:17 : update: added Joji/[2022] SMITHEREENS/~1. NIGHT RIDER.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~11. Pretty Boy (feat. Lil Yachty).mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~1. Ew.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~15. 777.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~4. Daylight.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~7. Run.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~17. Like You Do.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~14. Mr. Hollywood.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~10. NITROUS.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~18. Your Man.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~5. Upgrade.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~13. Afterthought.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~16. Reanimator (feat. Yves Tumor).mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~12. Normal People (feat. rei brown).mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~9. High Hopes (feat. Omar Apollo).mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~6. Gimme Love.mp3
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~8. Sanctuary.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~2. MODUS.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Joji/[2020] Nectar/~3. Tick Tock.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~7. Superheroes.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~6. Nightvision.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~5. Crescendolls.mp3
+Note: Illegal Audio-MPEG-Header 0xffe5000a at offset 4100.
+Note: Trying to resync...
+Note: Skipped 1024 bytes in input.
+[src/libmpg123/parse.c:wetwork():1389] error: Giving up resync after 1024 bytes - your stream is not nice... (maybe increasing resync limit could help).
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~4. Harder, Better, Faster, Stronger.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~12. Short Circuit.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~13. Face to Face.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~9. Something About Us.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~14. Too Long.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~10. Voyager.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~11. Veridis Quo.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~2. Aerodynamic.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~1. One More Time.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~8. High Life.mp3
+Jan 25 20:17 : update: added Daft Punk/[2001] Discovery/~3. Digital Love.mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~3. GLBTM (Studio Outtakes).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~5. Instant Crush (feat. Julian Casablancas).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~6. Prime (2012 Unfinished).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~9. Touch (2021 Epilogue) [feat. Paul Williams].mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~9. Beyond.mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~1. Give Life Back to Music.mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~7. LYTD (Vocoder Tests) [feat. Pharrell Williams].mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~13. Contact.mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~2. Horizon (Japan CD).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~7. Touch (feat. Paul Williams).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~8. The Writing of Fragments of Time (feat. Todd Edwards).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~10. Motherboard.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~11. Fragments of Time (feat. Todd Edwards).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~3. Giorgio by Moroder.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~8. Get Lucky (feat. Pharrell Williams and Nile Rodgers).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~4. Within.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~6. Lose Yourself to Dance (feat. Pharrell Williams).mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~2. The Game of Love.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~5. GL (Early Take) [feat. Pharrell Williams and Nile Rodgers].mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~1. Horizon Ouverture.mp3
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~12. Doin' it Right (feat. Panda Bear).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Daft Punk/[2023] Random Access Memories (10th Anniversary Edition)/~4. Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz].mp3
+Jan 25 20:17 : update: added keshi/[2022] GABRIEL/~10. LIMBO.mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~12. Flying High (feat. Toro y Moi).mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~10. Impossible.mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~7. Nightcrawler (feat. Swae Lee & Chief Keef).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~6. Pray 4 Love (feat. The Weeknd).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~9. Antidote.mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~8. Piss On Your Grave (feat. Kanye West).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~2. Oh My Dis Side (feat. Quavo).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~4. Wasted (feat. Juicy J).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~1. Pornography.mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~15. Ok Alright (feat. ScHoolboy Q).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~11. Maria I'm Drunk (feat. Justin Bieber & Young Thug).mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~14. Apple Pie.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~5. 90210 (feat. Kacy Hill).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~3. 3500 (feat. Future & 2 Chainz).mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~16. Never Catch Me.mp3
+Jan 25 20:17 : update: added Travis Scott/[2015] Rodeo/~13. I Can Tell.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~7. SKELETONS.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~12. YOSEMITE.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~3. SICKO MODE.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~9. 5% TINT.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~11. ASTROTHUNDER.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~6. NO BYSTANDERS.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~8. WAKE UP.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~2. CAROUSEL.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~1. STARGAZING.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~14. WHO? WHAT!.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~15. BUTTERFLY EFFECT.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~10. NC-17.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~4. R.I.P. SCREW.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~5. STOP TRYING TO BE GOD.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~17. COFFEE BEAN.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~13. CAN'T SAY.mp3
+Jan 25 20:17 : update: added Travis Scott/[2018] ASTROWORLD/~16. HOUSTONFORNICATION.mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~13. PARASAIL (feat. Yung Lean & Dave Chappelle).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~19. TIL FURTHER NOTICE (feat. James Blake & 21 Savage).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~18. TELEKINESIS (feat. SZA & Future).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~4. MY EYES.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~3. MODERN JAM (feat. Teezo Touchdown).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~17. K-POP (feat. Bad Bunny & The Weeknd).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~7. MELTDOWN (feat. Drake).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~12. CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~5. GOD'S COUNTRY.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~15. LOST FOREVER (feat. Westside Gunn).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~1. HYAENA.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~16. LOOOVE (feat. Kid Cudi).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~14. SKITZO (feat. Young Thug).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~2. THANK GOD.mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~8. FE!N (feat. Playboi Carti).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~11. TOPIA TWINS (feat. Rob49 & 21 Savage).mp3
+Jan 25 20:17 : update: added Travis Scott/[2023] UTOPIA/~6. SIRENS.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~8. fine china.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~12. durag activity (with Travis Scott).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~3. scapegoats.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~7. south africa.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~9. cocoa (with Don Toliver).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~6. patience interlude.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~14. first order of business.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~2. pink panties.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~7. naked freestyle.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~11. scars.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~13. booman.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~15. vent.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~4. a life of pain.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~8. lost souls.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~5. killstreaks (with Don Toliver & PinkPantheress).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~2. hooligan.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. lost souls (with Brent Faiyaz).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~4. range brothers (with Kendrick Lamar).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. trademark usa.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~16. 16.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. family ties (with Kendrick Lamar).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. bank account (with Lil Uzi Vert).mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~6. gorgeous.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~5. issues.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~3. no sense.mp3
+Jan 25 20:17 : update: added Baby Keem/[2022] The Melodic Blue (Deluxe)/~9. highway 95.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~2. squabble up.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~9. peekaboo (feat. azchike).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~8. dodger blue (feat. wallie the sensei, siete7x, roddy ricch).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~7. tv off (feat. lefty gunplay).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~6. reincarnated.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~11. gnx (feat. hitta j3, youngthreat, peysoh).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~10. heart pt. 6.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~4. man at the garden.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~1. wacced out murals.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~12. gloria (with sza).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~3. luther (with sza).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2024] GNX/~5. hey now (feat. dody6).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~7. Mr. Morale.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~3. Worldwide Steppers.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~5. Savior.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~6. Auntie Diaries.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~3. Silent Hill.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~1. The Heart Part 5.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~6. Rich - Interlude.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~9. Mirror.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~8. Mother I Sober (feat. Beth Gibbons of Portishead).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~2. Crown.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~4. Savior - Interlude.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~4. Die Hard.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~5. Father Time (feat. Sampha).mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~7. Rich Spirit.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~2. N95.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~1. Count Me Out.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~8. We Cry Together.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~9. Purple Hearts.mp3
+Jan 25 20:17 : update: added Kendrick Lamar/[2022] Mr. Morale & The Big Steppers/~1. United In Grief.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~2. GOD..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~3. FEAR..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~9. LOYALTY. FEAT. RIHANNA..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~12. YAH..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~8. PRIDE..mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~6. LUST..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~1. DUCKWORTH..mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~4. XXX. FEAT. U2.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~14. BLOOD..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~13. DNA..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~5. LOVE. FEAT. ZACARI..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~11. ELEMENT..mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~10. FEEL..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~7. HUMBLE..mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~7. good kid.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~1. Sherane a.k.a Master Splinter’s Daughter.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~4. The Art of Peer Pressure.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~13. Bitch, Don’t Kill My Vibe - Remix.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~2. Bitch, Don’t Kill My Vibe.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~6. Poetic Justice.mp3
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~14. Bitch, Don’t Kill My Vibe - International Remix - Explicit Version.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~8. m.A.A.d city.mp3
+Note: Illegal Audio-MPEG-Header 0xffe304ea at offset 34682.
+Note: Trying to resync...
+Note: Skipped 557 bytes in input.
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~3. Backseat Freestyle.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Kendrick Lamar/[2012] good kid, m.A.A.d city/~12. Compton.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~10. Give You the World.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~2. Helmet.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~9. Sunshine (feat. Fousheé).mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~5. Bad Habit.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~6. 2Gether (Enterlude).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~3. Mercury.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~4. Buttons.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~1. Static.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~8. Amber.mp3
+Jan 25 20:18 : update: added Steve Lacy/[2022] Gemini Rights/~7. Cody Freestyle.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~12. Ghost in the Machine (feat. Phoebe Bridgers).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~22. Good Days.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~13. F2F.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~5. Love Language.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~23. Forgiveless (feat. Ol' Dirty Bastard).mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~19. Shirt.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~17. Too Late.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~16. Special.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~1. SOS.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~20. Open Arms (feat. Travis Scott).mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~11. Smoking on my Ex Pack.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~2. Kill Bill.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~9. Notice Me.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~4. Low.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~10. Gone Girl.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~15. Conceited.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added SZA/[2022] SOS/~6. Blind.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~14. Nobody Gets Me.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~18. Far.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~7. Used (feat. Don Toliver).mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~8. Snooze.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~3. Seek & Destroy.mp3
+Jan 25 20:18 : update: added SZA/[2022] SOS/~21. I Hate U.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~12. ARE WE STILL FRIENDS?.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~10. GONE, GONE - THANK YOU.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~1. IGOR'S THEME.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~8. PUPPET.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~7. A BOY IS A GUN*.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~4. EXACTLY WHAT YOU RUN FROM YOU END UP CHASING.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~2. EARFQUAKE.mp3
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~3. I THINK.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~9. WHAT'S GOOD.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~5. RUNNING OUT OF TIME.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~6. NEW MAGIC WAND.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Tyler, The Creator/[2019] IGOR/~11. I DON'T LOVE YOU ANYMORE.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~1. Alone Again.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~11. Save Your Tears.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~5. Snowchild.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~8. Faith.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~9. Blinding Lights.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~3. Hardest To Love.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~14. Until I Bleed Out.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~13. After Hours.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~15. Nothing Compares - Bonus Track.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~18. Save Your Tears (Remix) (with Ariana Grande) - Bonus Track.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~12. Repeat After Me (Interlude).mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~16. Missed You - Bonus Track.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~7. Heartless.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~6. Escape From LA.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~2. Too Late.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~4. Scared To Live.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~17. Final Lullaby - Bonus Track.mp3
+Jan 25 20:18 : update: added The Weeknd/[2020] After Hours (Deluxe)/~10. In Your Eyes.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~8. ラブレター.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~1. ツバメ (feat. ミドリーズ).mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~3. Romance.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~2. 三原色.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~6. 怪物.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~4. もう少しだけ.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~5. 優しい彗星.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK 2/~7. もしも命が描けたら.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~8. 夜に駆ける.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~6. 群青.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~9. Prologue.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~1. Epilogue.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~7. ハルカ.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~3. ハルジオン.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~5. たぶん.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~4. あの夢をなぞって.mp3
+Jan 25 20:18 : update: added YOASOBI/[2021] THE BOOK/~2. アンコール.mp3
+Jan 25 20:18 : update: added The_Weeknd_Feat_Playboi_Carti_-_Timeless-SINGLE-WEB-2024-MST (3)/01_the_weeknd_feat_playboi_carti_-_timeless-mst.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~13. Monks.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~5. Sweet Life.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~7. Super Rich Kids.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~14. Bad Religion.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~4. Sierra Leone.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~1. Start.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~16. Forrest Gump.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~2. Thinkin Bout You.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~17. End.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~12. White.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~3. Fertilizer.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~11. Lost.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~8. Pilot Jones.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~15. Pink Matter.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~6. Not Just Money.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~9. Crack Rock.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2012] channel ORANGE/~10. Pyramids.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~17. Futura Free.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~9. Nights.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~2. Ivy.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~12. Facebook Story.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~15. Seigfried.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~4. Be Yourself.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~11. Pretty Sweet.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~8. Good Guy.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~13. Close To You.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~6. Skyline To.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~16. Godspeed.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~14. White Ferrari.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~10. Solo (Reprise).mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~5. Solo.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~3. Pink + White.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~7. Self Control.mp3
+Jan 25 20:18 : update: added Frank Ocean/[2016] Blonde/~1. Nikes.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~5. The Great Gig in the Sky - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~3. On the Run - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~1. Speak to Me - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~8. Any Colour You Like - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~7. Us and Them - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~2. Breathe (In the Air) - 2023 Remaster.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~6. Money - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~4. Time - 2023 Remaster.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~9. Brain Damage - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1973] The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]/~10. Eclipse - 2023 Remaster.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1975] Wish You Were Here/~5. Shine On You Crazy Diamond (Pts. 6-9).mp3
+Jan 25 20:18 : update: added Pink Floyd/[1975] Wish You Were Here/~4. Wish You Were Here.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:18 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:18 : update: added Pink Floyd/[1975] Wish You Were Here/~3. Have a Cigar.mp3
+Jan 25 20:18 : update: added Pink Floyd/[1975] Wish You Were Here/~1. Shine On You Crazy Diamond (Pts. 1-5).mp3
+Jan 25 20:18 : update: added Pink Floyd/[1975] Wish You Were Here/~2. Welcome to the Machine.mp3
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. lost souls (with Brent Faiyaz).mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. trademark usa.mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. bank account (with Lil Uzi Vert).mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. family ties (with Kendrick Lamar).mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~11. scars.mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~12. durag activity (with Travis Scott).mp3"
+Jan 25 20:21 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~13. booman.mp3"
+Jan 25 20:21 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Steve Lacy/[2022] Gemini Rights/~1. Static.mp3"
+Jan 25 20:22 : player: played "Steve Lacy/[2022] Gemini Rights/~10. Give You the World.mp3"
+Jan 25 20:22 : player: played "YOASOBI/[2021] THE BOOK/~1. Epilogue.mp3"
+Jan 25 20:22 : player: played "YOASOBI/[2021] THE BOOK/~2. アンコール.mp3"
+Jan 25 20:22 : player: played "Travis Scott/[2015] Rodeo/~1. Pornography.mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~1. DUCKWORTH..mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/layer1.c:I_step_one():94] error: 128 bits needed, 96 available
+[src/libmpg123/layer1.c:INT123_do_layer1():228] error: Aborting layer I decoding after step one.
+[src/libmpg123/layer1.c:I_step_one():94] error: 128 bits needed, 88 available
+[src/libmpg123/layer1.c:INT123_do_layer1():228] error: Aborting layer I decoding after step one.
+Note: Illegal Audio-MPEG-Header 0x813910f1 at offset 41532.
+Note: Trying to resync...
+Note: Skipped 1024 bytes in input.
+[src/libmpg123/parse.c:wetwork():1389] error: Giving up resync after 1024 bytes - your stream is not nice... (maybe increasing resync limit could help).
+Jan 25 20:22 : mpg123: mpg123_read() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~11. ELEMENT..mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~13. DNA..mp3"
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~14. BLOOD..mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~7. HUMBLE..mp3"
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~8. PRIDE..mp3"
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~9. LOYALTY. FEAT. RIHANNA..mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:22 : player: played "Kendrick Lamar/[2017] DAMN. COLLECTORS EDITION./~1. DUCKWORTH..mp3"
+Jan 25 20:22 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:22 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:23 : exception: Failed to open audio output
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. lost souls (with Brent Faiyaz).mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~1. trademark usa.mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. bank account (with Lil Uzi Vert).mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~10. family ties (with Kendrick Lamar).mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~11. scars.mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~12. durag activity (with Travis Scott).mp3"
+Jan 25 20:23 : player: played "Baby Keem/[2022] The Melodic Blue (Deluxe)/~13. booman.mp3"
+Jan 25 20:23 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:23 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 25 20:23 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 25 20:23 : mpg123: mpg123_getformat() failed: A generic mpg123 error.

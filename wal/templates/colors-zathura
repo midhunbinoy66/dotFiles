@@ -1,0 +1,11 @@
+set default-bg {background}
+set default-fg {foreground}
+set statusbar-bg {background}
+set statusbar-fg {color15}
+set inputbar-bg {background}
+set inputbar-fg {color15}
+set highlight-active-bg {color15}
+set highlight-active-fg {background}
+set recolor "true"
+set recolor-keephue "true"
+

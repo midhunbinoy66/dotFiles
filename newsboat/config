@@ -1,0 +1,10 @@
+# Set the browser to open links
+browser "firefox"
+
+# Set the number of articles to keep
+
+# Enable colors
+color listnormal white black
+color listfocus black white
+color listnormal_unread blue black
+color listfocus_unread yellow black
