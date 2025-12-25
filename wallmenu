@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+
+# Wallpaper picker with pywal + feh
+FOLDER="$HOME/rice-arch"
+SESSION="$XDG_SESSION_TYPE"
+
+menu() {
+    if command -v nsxiv >/dev/null; then
+        # nsxiv returns selected files only after marking (m) + q
+        CHOICE=$(nsxiv -otb "$FOLDER"/*)
+    fi
+
+    # fallback to dmenu if CHOICE is empty
+    if [ -z "$CHOICE" ]; then
+        CHOICE=$(printf "Random\n%s" "$(ls -1 "$FOLDER")" | dmenu -l 15 -i -p "Wallpaper:")
+        [[ "$CHOICE" == "Random" ]] && CHOICE=$(find "$FOLDER" -type f | shuf -n 1) || CHOICE="$FOLDER/$CHOICE"
+    fi
+
+    # Check if valid file exists
+    if [ ! -f "$CHOICE" ]; then
+        notify-send "Wallpaper Picker" "Invalid selection or no file selected."
+        exit 1
+    fi
+
+    # Set wallpaper and apply pywal
+    wal -i "$CHOICE"
+    if [ "$SESSION" == 'wayland' ]; then
+	   swww img "$CHOICE";
+    else
+	   feh --bg-scale "$CHOICE"
+    fi
+
+    
+}
+
+# CLI argument mode
+case "$#" in
+    0) menu ;;
+    1)
+        [[ -f "$1" ]] && wal -i "$1" && feh --bg-scale "$1" || {
+            echo "Invalid file: $1"
+            exit 1
+        }
+        ;;
+    2)
+        [[ -f "$1" ]] && wal -i "$1" --theme "$2" && feh --bg-scale "$1" || {
+            echo "Invalid file: $1"
+            exit 1
+        }
+        ;;
+    *) exit 1 ;;
+esac
